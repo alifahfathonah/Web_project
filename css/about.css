@@ -1,0 +1,19 @@
+p{
+	text-align: left;
+	color: black;
+	font-size: 18;
+}
+
+.container {
+	border-radius: 5px;
+	background-color: #fffeb3;
+	padding: 20px;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.loginName{
+	color: white;
+	font-size: 18;
+}
